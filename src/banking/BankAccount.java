@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ken
+ * @author Binti
  */
 public  class BankAccount implements Bank {
     public  static Scanner scanner = new Scanner(System.in);
